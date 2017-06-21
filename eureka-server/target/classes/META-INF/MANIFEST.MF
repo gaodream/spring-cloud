@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-server
+Implementation-Version: 1.0.RELEASE
+Built-By: gaogao
+Implementation-Vendor-Id: com.scloud
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/scloud/eurek
+ a-server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
